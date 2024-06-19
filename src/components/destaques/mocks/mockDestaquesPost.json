@@ -1,0 +1,25 @@
+{
+  "destaquesPosts": [
+    {
+      "_id": "12345",
+      "title": "UENF lança novos cursos voltados a área de tecnologia",
+      "description": "UNiversidade está com tudo nesses meados de pandemia. Reitor distribui dinheiro para todos alunosUNiversidade está com tudo nesses meados de pandemia. Reitor distribui dinheiro para todos alunosUNiversidade está com tudo nesses meados de pandemia. Reitor distribui dinheiro para todos alunos",
+      "image": "https://uenf.br/portal/wp-content/uploads/2019/10/Feira_Agroecologica.jpg",
+      "createdAt": "2021-07-21T18:39:20.867+00:00"
+    },
+    {
+      "_id": "12346",
+      "title": "UENF melhor universidade do Brasil",
+      "description": "DO mundo ou do Brasil, talvez a melhor universidade do mundo, senão do Brasil DO mundo ou do Brasil, talvez a melhor universidade do mundo, senão do BrasilDO mundo ou do Brasil, talvez a melhor universidade do mundo, senão do Brasil",
+      "image": "https://s03.video.glbimg.com/x720/8376914.jpg",
+      "createdAt": "2021-07-20T18:39:20.867+00:00"
+    },
+    {
+      "_id": "12347",
+      "title": "Universitário da UENF campeões de Lol",
+      "description": "Alunos da Uenf são campeões brasileiros de League of legends, batendo Faker na final Alunos da Uenf são campeões brasileiros de League of legends, batendo Faker na finalAlunos da Uenf são campeões brasileiros de League of legends, batendo Faker na final",
+      "image": "http://exp.rapidonoar.com.br/wp-content/uploads/2019/01/pain2015f.jpg",
+      "createdAt": "2021-07-19T18:39:20.867+00:00"
+    }
+  ]
+}

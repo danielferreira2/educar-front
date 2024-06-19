@@ -1,0 +1,15 @@
+{
+  "educar": {
+    "primary": "#2f4b71",
+    "primary-dark": "#0D5166",
+    "primary-high": "#005e92",
+    "negative": {
+      "primary": "#C70909"
+    },
+    "sucess": {
+      "primary": "#359812"
+    },
+    "moon": "#f5e431",
+    "bg-cards": "rgba(196, 196, 196, 0.8)"
+  }
+}

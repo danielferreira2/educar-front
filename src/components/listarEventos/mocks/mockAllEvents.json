@@ -1,0 +1,40 @@
+{
+  "eventos": [
+    {
+      "_id": "12345",
+      "title": "Ensino de literatura das flores na UENF",
+      "description": "A literatura das flores é inimaginável quando o assunto são os lírios azuis, dos lenços de flora aquara",
+      "image": "https://images2.holambrense.com.br/wp-content/uploads/2018/05/12186408_1091007004266400_2841723067964061647_o-1525700237.jpg",
+      "createdAt": "2021-07-21T18:39:20.867+00:00",
+      "type": "online",
+      "date": "2021-12-21T18:39:20.867+00:00"
+    },
+    {
+      "_id": "12346",
+      "title": "Ciência da COmputação no espaço",
+      "description": "A turma de veteranos de Ciência da COmputação vão a Lua convocado pela NASA, após teste em algorítimos de ordenamento com Bubble sort",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/BB8F/production/_112051084_blueorigin_hls_lander_de_ae_moon.jpg",
+      "createdAt": "2021-07-20T18:39:20.867+00:00",
+      "type": "presencial",
+      "date": "2021-12-18T18:39:20.867+00:00"
+    },
+    {
+      "_id": "12347",
+      "title": "Evento de games online na UENF",
+      "description": "Alunos da Uenf são campeões brasileiros de League of legends, batendo Faker na final Alunos da Uenf são campeões brasileiros de League of legends, batendo Faker na finalAlunos da Uenf são campeões brasileiros de League of legends, batendo Faker na final",
+      "image": "http://exp.rapidonoar.com.br/wp-content/uploads/2019/01/pain2015f.jpg",
+      "createdAt": "2021-07-19T18:39:20.867+00:00",
+      "type": "online",
+      "date": "2021-12-11T18:39:20.867+00:00"
+    },
+    {
+      "_id": "12347",
+      "title": "Queen fará show beneficente no campus da UENF",
+      "description": "UMa das grandes bandas dos anos 80 vai trazer de volta a vida o seu vocalista e farão juntos um ritual para arrecar dinheiro para fome na África. O nome vai ser Live aid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHpYR8RCW-C7_7_Q_Nq9l31PGJi72qhYDsw&usqp=CAU",
+      "createdAt": "2021-07-19T18:39:20.867+00:00",
+      "type": "presencial",
+      "date": "2021-12-08T18:39:20.867+00:00"
+    }
+  ]
+}
