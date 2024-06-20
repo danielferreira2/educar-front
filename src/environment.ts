@@ -1,3 +1,3 @@
 export class Environment {
-  public static API_URL = 'https://localhost:3001';
+  public static API_URL = 'https://localhost:3000';
 }
